@@ -7,6 +7,6 @@
 - Axios
 
 ## The application look and feel
-<img ="https://github.com/pobirsky/redux-react-ts-tutorial/blob/main/img/example1.png" width="400">
+<img src="https://github.com/pobirsky/redux-react-ts-tutorial/blob/main/img/example1.png" width="400">
 
-<img ="https://github.com/pobirsky/redux-react-ts-tutorial/blob/main/img/example2.png" width="400">
+<img src="https://github.com/pobirsky/redux-react-ts-tutorial/blob/main/img/example2.png" width="400">
